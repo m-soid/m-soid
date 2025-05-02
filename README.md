@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" height="400" src="https://i.pinimg.com/originals/56/4c/6e/564c6e4ad8be5298d81ae6cc307f3d08.gif">
+<img align="center" alt="coding" width="100%" height="300" src="https://i.pinimg.com/originals/56/4c/6e/564c6e4ad8be5298d81ae6cc307f3d08.gif">
 
 <h1>Welcome</h1>
 <h3>Just Someone You Won't Met</h3>
