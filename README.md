@@ -39,14 +39,5 @@
 
 
 
-
-
 ---
 
-<h2 align="center">My Coding Assist</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/t1znpik2mqzed6whw7wroiqkw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5&width=1000)" alt="Spotify recently played"/>
-  </a>
-</div>
