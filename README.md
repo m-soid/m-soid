@@ -23,10 +23,11 @@
       </p>    
 <div>
 
----
 
 
-# 🌐 Socials:
+
+<h2 align="left"> My socials</h2>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/896225983395418142) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mastersoid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wadeteloss/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/t1znpik2mqzed6whw7wroiqkw) 
 
 
